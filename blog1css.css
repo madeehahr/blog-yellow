@@ -1,0 +1,72 @@
+body {
+    font-family: Crimson Text;
+}
+
+.content {
+    font-size: 20px;
+}
+
+.navbar {
+    font-family: 'Cuprum', sans-serif;
+}
+
+/* Navbar */
+.bg-custom {
+    background-color: #FFEC66;
+}
+
+a {
+    color: #FFE10E;
+    font-family: 'Cuprum', sans-serif;
+}
+
+.anchor {
+    color: white;
+}
+
+.btn-custom {
+    color: #FFE10E;
+}
+
+.card-custom {
+    background-color:  #FFF4A9;
+
+}
+
+.yellow-title {
+    font-family: 'Cuprum', sans-serif;
+}
+
+h1 {
+    font-family: 'Cuprum', sans-serif;
+}
+
+.card {
+    border: none;
+}
+
+i {
+    margin: 5px;
+    color: #FFE10E;
+}
+
+/*
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+} */
+
+.sticky-footer-wrapper {
+    min-height:100vh;
+ }
+
+ .flex-fill {
+    flex:1 1 auto;
+ }
+#bottom {
+    text-align: center;
+}
